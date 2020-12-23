@@ -11,7 +11,8 @@ const TypingIntro = () => {
           avgTypingDelay={100}
           startDelay={2000}
         >
-          Hi there, I'm Ben.
+          {/* Hi there, I'm Ben. */}
+          Nice to meet you...
         </Typist>
         </h1>
       </>
